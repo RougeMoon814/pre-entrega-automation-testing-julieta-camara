@@ -1,9 +1,11 @@
 
 # Proyecto de Automatización de Saucedemo
 
-## Auto
-
 ## Instalación
 
 - pip install pytest
-- etc
+
+## Tecnologias Requeridas
+- Python3 com lenguaje principal
+- Pytest para estructura de testing
+- Selenium WebDriver para automatización
