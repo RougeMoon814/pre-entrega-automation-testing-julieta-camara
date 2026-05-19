@@ -1,2 +1,9 @@
-# pre-entrega-automation-testing-julieta-camara
-pre-entrega automation testing - julieta camara
+
+# Proyecto de Automatización de Saucedemo
+
+## Auto
+
+## Instalación
+
+- pip install pytest
+- etc
